@@ -44,13 +44,13 @@ show the importance of modeling information at both levels*
 
 ## Citation
         @inproceedings{COGMEN-2022,
-        title = “{COGMEN:} {CO}ntextualized {G}NN based {M}ultimodal {E}motion recognitio{N}”,
-        author = {Joshi, Abhinav and Bhat, Ashwani and Jain, Ayush and Singh, Atin Vikram and Modi, Ashutosh},
-        booktitle = "Proceedings of the 2022 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, {NAACL-HLT}",
-        month = jul,
-        year = “2022”,
-        address = "Seattle, Washington",
-        publisher = "Association for Computational Linguistics",
-        }
+            title = {{COGMEN:} {CO}ntextualized {{G}NN} based {M}ultimodal {E}motion recognitio{N}},
+            author = {Joshi, Abhinav and Bhat, Ashwani and Jain, Ayush and Singh, Atin Vikram and Modi, Ashutosh},
+            booktitle = "Proceedings of the 2022 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, {NAACL-HLT}",
+            month = jul,
+            year = 2022,
+            address = "Seattle, Washington",
+            publisher = "Association for Computational Linguistics",
+            }
 ## Acknowledgments
 The structure of our code is inspired by [pytorch-DialogueGCN-mianzhang](https://github.com/mianzhang/dialogue_gcn).

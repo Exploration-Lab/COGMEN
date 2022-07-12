@@ -44,7 +44,7 @@ show the importance of modeling information at both levels*
 Please cite the paper using following citation:
 
 ## Citation
-        @inproceedings{joshi-etal-2022-cogmen,
+    @inproceedings{joshi-etal-2022-cogmen,
     title = "{COGMEN}: {CO}ntextualized {GNN} based Multimodal Emotion recognitio{N}",
     author = "Joshi, Abhinav  and
       Bhat, Ashwani  and
@@ -58,8 +58,7 @@ Please cite the paper using following citation:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.naacl-main.306",
     pages = "4148--4164",
-    abstract = "Emotions are an inherent part of human interactions, and consequently, it is imperative to develop AI systems that understand and recognize human emotions. During a conversation involving various people, a person{'}s emotions are influenced by the other speaker{'}s utterances and their own emotional state over the utterances. In this paper, we propose COntextualized Graph Neural Network based Multi- modal Emotion recognitioN (COGMEN) system that leverages local information (i.e., inter/intra dependency between speakers) and global information (context). The proposed model uses Graph Neural Network (GNN) based architecture to model the complex dependencies (local and global information) in a conversation. Our model gives state-of-the- art (SOTA) results on IEMOCAP and MOSEI datasets, and detailed ablation experiments show the importance of modeling information at both levels.",
-}
+    abstract = "Emotions are an inherent part of human interactions, and consequently, it is imperative to develop AI systems that understand and recognize human emotions. During a conversation involving various people, a person{'}s emotions are influenced by the other speaker{'}s utterances and their own emotional state over the utterances. In this paper, we propose COntextualized Graph Neural Network based Multi- modal Emotion recognitioN (COGMEN) system that leverages local information (i.e., inter/intra dependency between speakers) and global information (context). The proposed model uses Graph Neural Network (GNN) based architecture to model the complex dependencies (local and global information) in a conversation. Our model gives state-of-the- art (SOTA) results on IEMOCAP and MOSEI datasets, and detailed ablation experiments show the importance of modeling information at both levels.",}
 
 ## Acknowledgments
 The structure of our code is inspired by [pytorch-DialogueGCN-mianzhang](https://github.com/mianzhang/dialogue_gcn).

@@ -110,7 +110,7 @@ if __name__ == "__main__":
         type=str,
         default="atv",
         # required=True,
-        choices=["a", "at", "atv"],
+        choices=["a", "t", "v", "at", "tv", "av", "atv"],
         help="Modalities",
     )
 

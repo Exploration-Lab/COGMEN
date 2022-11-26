@@ -1,0 +1,7 @@
+{
+    "workbench.preferredLightColorTheme": "Solarized Light",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+    "workbench.preferredDarkColorTheme": "Kimbie Dark",
+    "workbench.colorTheme": "Kimbie Dark",
+    "python.analysis.typeCheckingMode": "basic"
+}

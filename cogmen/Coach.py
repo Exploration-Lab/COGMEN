@@ -99,6 +99,7 @@ class Coach:
                         + ".pt",
                     )
                 else:
+                    print(self.args.modalities)
                     torch.save(
                         {"args": self.args, "state_dict": self.model},
                         "model_checkpoints/"

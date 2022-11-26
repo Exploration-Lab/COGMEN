@@ -90,6 +90,7 @@ class Coach:
                 best_epoch = epoch
                 best_state = copy.deepcopy(self.model.state_dict())
                 if self.args.dataset == "mosei":
+                    print("ewwwwwwwwww")
                     torch.save(
                         {"args": self.args, "state_dict": self.model},
                         "model_checkpoints/mosei_best_dev_f1_model_"
@@ -99,7 +100,7 @@ class Coach:
                         + ".pt",
                     )
                 else:
-                    print(self.args.modalities)
+                    print("Modality is.................", self.args.modalities)
                     torch.save(
                         {"args": self.args, "state_dict": self.model},
                         "model_checkpoints/"

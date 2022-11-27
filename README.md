@@ -1,6 +1,9 @@
 ## COGMEN; Official Pytorch Implementation
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cogmen-contextualized-gnn-based-multimodal/multimodal-emotion-recognition-on-iemocap)](https://paperswithcode.com/sota/multimodal-emotion-recognition-on-iemocap?p=cogmen-contextualized-gnn-based-multimodal)
 
+**Note**
+> this has been edited by mina and hirona for cs662 :)
+
 **CO**ntextualized **G**NN based **M**ultimodal **E**motion recognitio**N**
 ![Teaser image](./COGMEN_architecture.png)
 **Picture:** *COGMEN Model Architecture*
